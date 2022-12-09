@@ -6,7 +6,8 @@
 int main(void)
 {
 	int n;
-	/* this program will return if the number is posetive
+	/*
+	 * this program will return if the number is posetive
 	 * negetive
 	 * or zero
 	 */
