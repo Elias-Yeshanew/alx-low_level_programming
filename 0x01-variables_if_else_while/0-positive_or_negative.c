@@ -6,7 +6,10 @@
 int main (void)
 {
 	int n;
-
+	/* this program will return if the number is posetive
+	 * negetive
+	 * or zero
+	 */
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n < 0)
